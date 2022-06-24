@@ -1,5 +1,15 @@
 # ariakit-utils
 
+## 0.17.0-next.22
+
+### Minor Changes
+
+- **types**: `BooleanOrCallback` now requires a generic parameter input. ([#1534](https://github.com/ariakit/ariakit/pull/1534))
+
+### Patch Changes
+
+- Fixed `useUpdateEffect` and `useUpdateLayoutEffect` on strict mode. ([#1534](https://github.com/ariakit/ariakit/pull/1534))
+
 ## 0.17.0-next.21
 
 ### Patch Changes

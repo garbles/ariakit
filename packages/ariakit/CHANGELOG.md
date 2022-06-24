@@ -1,5 +1,23 @@
 # ariakit
 
+## 2.0.0-next.31
+
+### Minor Changes
+
+- Added `FocusTrapRegion` component. ([#1469](https://github.com/ariakit/ariakit/pull/1469))
+
+### Patch Changes
+
+- Fixed `Hovercard` incorrectly setting `autoFocusOnShow` to `false` on strict mode. ([#1534](https://github.com/ariakit/ariakit/pull/1534))
+
+* Fixed `MenuBar` initial focus on strict mode. ([#1534](https://github.com/ariakit/ariakit/pull/1534))
+
+- Fixed `Popover` initial position. ([#1535](https://github.com/ariakit/ariakit/pull/1535))
+
+* Fixed `Select` initial focus on strict mode. ([#1532](https://github.com/ariakit/ariakit/pull/1532))
+
+* Updated dependencies: `ariakit-utils@0.17.0-next.22`.
+
 ## 2.0.0-next.30
 
 ### Patch Changes
